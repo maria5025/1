@@ -1,0 +1,70 @@
+body{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.satauri{
+	font-size: 50px;
+	color:red;
+	display: inline-block;
+	font-family: "BPG Irubaqidze", sans-serif;
+	margin:20px;
+}
+.foto{
+	display: inline-block;
+	width:  200px;
+}
+.qve-satauri{
+	display: inline-block;
+	font-size:30px;
+	text-align: center;
+	margin-right: 40px;
+	font-family: "BPG Irubaqidze", sans-serif;
+	color: black;
+}
+.box{
+	background: url(/*http://getwallpapers.com/wallpaper/full/a/9/2/29702.jpg*/) right bottom no-repeat, url(paper.gif) left top repeat; 
+  padding: 15px;
+  display: inline-block;
+
+}
+.text-center{
+	color: black; 
+	font-size:30px;
+	margin-top:30px;
+	margin-bottom: 20px;
+	align-items: center;
+}
+.headline{
+	display: flex;
+	align-items: middle;
+}
+form{
+	width: 1000px;
+	margin: auto;
+	margin-top: 50px;
+	float:right;
+}
+
+.submit{
+	width: 15%;
+	padding:10px;
+	font-size: 20px;
+	background-color: black;
+	color:white;
+	
+}
+.search{
+	width: 290px;
+	padding: 10px;
+	font-size: 20px;
+	margin-bottom: 30px;
+	
+}
+.text-ganmarteba{
+	display: inline-block;
+	margin:25px;
+	font-size:22px;
+	margin-top:30px;
+	float: left;
+}
